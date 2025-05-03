@@ -1,4 +1,10 @@
 /*! tailwindcss v4.1.5 | MIT License | https://tailwindcss.com */
+
+html {
+    scroll-behavior: smooth;
+  }
+  
+
 @layer properties;
 @layer theme, base, components, utilities;
 @layer theme {
